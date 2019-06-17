@@ -578,7 +578,7 @@ can cause issues with ammo types getting mixed up during the burst.
 						/obj/item/attachable/scope/mini,
 						/obj/item/attachable/scope,
 						/obj/item/attachable/bayonet)
-	attachable_offset = list("muzzle_x" = 50, "muzzle_y" = 21,"rail_x" = 8, "rail_y" = 21, "under_x" = 37, "under_y" = 16, "stock_x" = 20, "stock_y" = 14)
+	attachable_offset = list("muzzle_x" = 40, "muzzle_y" = 19,"rail_x" = 10, "rail_y" = 19, "under_x" = 39, "under_y" = 18, "stock_x" = 15, "stock_y" = 13)
 	starting_attachment_types = list(/obj/item/attachable/scope,
 									/obj/item/attachable/mosinbarrel,
 									/obj/item/attachable/stock/mosin)
